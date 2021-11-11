@@ -6,7 +6,7 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello it's sowda!");
+            Console.WriteLine("Hello it's sowdamini!");
         }
     }
 }
